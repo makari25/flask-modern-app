@@ -1,0 +1,23 @@
+/* static/style.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modern-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 12px;
+}
+
+.modern-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.navbar {
+    background: linear-gradient(135deg, #343a40, #495057);
+}
+
+.btn-dark {
+    background: linear-gradient(135deg, #343a40, #6c757d);
+    border: none;
+}
