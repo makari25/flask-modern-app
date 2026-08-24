@@ -17,7 +17,7 @@ Flash Messages for user feedback.
 Follow these steps to get the application running on your local machine.
 
 1. Clone & Setup Environment
-# Create and activate virtual environmentpython -m venv venv# Windowsvenv\Scripts\activate# Mac/Linuxsource venv/bin/activate
+ Create and activate virtual environmentpython -m venv venv# Windowsvenv\Scripts\activate# Mac/Linuxsource venv/bin/activate
 2. Install Dependencies
 bash
 
