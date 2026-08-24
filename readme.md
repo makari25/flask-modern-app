@@ -17,8 +17,11 @@ Flash Messages for user feedback.
 Follow these steps to get the application running on your local machine.
 
 1. Clone & Setup Environment
+ ```
+git clone https://github.com/makari25/flask-modern-app.git
+```
  Create and activate virtual environmentpython -m venv venv# Windowsvenv\Scripts\activate# Mac/Linuxsource venv/bin/activate
-2. Install Dependencies
+3. Install Dependencies
 bash
 
 pip install Flask
